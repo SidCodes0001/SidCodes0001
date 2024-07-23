@@ -1,3 +1,6 @@
+# About Me
+I'm 20 y.o AI & ML Engineer. My interests span across Generative AI, Computer Vision & Data Analysis. Constantly expanding my knowledge in these fields.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidak._.singh5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidak-singh-861648230/) 
