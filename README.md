@@ -1,5 +1,5 @@
 # About Me
-I'm 20 y.o AI & ML Engineer. My interests span across Data Analysis, Generative AI & Computer Vision.
+I'm 22 y.o AI & ML Engineer. My interests span across Data Analysis, Generative AI & Computer Vision.
 
 
 ## 🌐 Socials:
